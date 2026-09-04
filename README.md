@@ -30,7 +30,7 @@
 
 优惠券：**TS-CBP205DQJE**
 
-申请：[丽萨主机官网网站](https://lisahost.com/aff.php?aff=893)
+申请：[丽萨主机官网网站](https://lisahost.com/aff.php?aff=85)
 
 ![image-20260904115601161](assets/image-20260904115601161.png)
 
@@ -44,69 +44,69 @@
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格** | **购买**                                               |
 | -------- | ------- | -------- | -------- | -------- | -------- | ------------------------------------------------------ |
-| 1G       | 1核     | 10G      | 2T/月    | 300M     | 366元/年 | **[链接](https://lisahost.com/aff.php?aff=893&gid=82)** |
-| 1G       | 1核     | 10G      | 4T/月    | 500M     | 48元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
-| 1G       | 1核     | 20G      | 6T/月    | 1Gbps    | 68元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
-| 2G       | 2核     | 40G      | 10T/月   | 1Gbps    | 88元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
-| 4G       | 4核     | 80G      | 20T/月   | 1Gbps    | 188元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
-| 2G       | 2核     | 40G      | 不限     | 200M     | 398元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
-| 4G       | 4核     | 80G      | 不限     | 500M     | 598元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=36)**       |
+| 1G       | 1核     | 10G      | 2T/月    | 300M     | 366元/年 | **[链接](https://lisahost.com/aff.php?aff=85&gid=82)** |
+| 1G       | 1核     | 10G      | 4T/月    | 500M     | 48元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
+| 1G       | 1核     | 20G      | 6T/月    | 1Gbps    | 68元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
+| 2G       | 2核     | 40G      | 10T/月   | 1Gbps    | 88元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
+| 4G       | 4核     | 80G      | 20T/月   | 1Gbps    | 188元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
+| 2G       | 2核     | 40G      | 不限     | 200M     | 398元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
+| 4G       | 4核     | 80G      | 不限     | 500M     | 598元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=36)**       |
 
 **韩国双ISP家庭网络三网优化VPS**
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格**  | **购买**                                         |
 | -------- | ------- | -------- | -------- | -------- | --------- | ------------------------------------------------ |
-| 1G       | 1核     | 20G      | 3T/月    | 100M     | 99元/月   | **[链接](https://lisahost.com/aff.php?aff=893&gid=23)** |
-| 2G       | 2核     | 40G      | 5T/月    | 150M     | 188元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=23)** |
-| 4G       | 4核     | 80G      | 10T/月   | 200M     | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=23)** |
-| 2G       | 2核     | 40G      | 不限     | 50M      | 798元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=23)** |
-| 4G       | 4核     | 80G      | 不限     | 100M     | 1688元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=23)** |
+| 1G       | 1核     | 20G      | 3T/月    | 100M     | 99元/月   | **[链接](https://lisahost.com/aff.php?aff=85&gid=23)** |
+| 2G       | 2核     | 40G      | 5T/月    | 150M     | 188元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=23)** |
+| 4G       | 4核     | 80G      | 10T/月   | 200M     | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=23)** |
+| 2G       | 2核     | 40G      | 不限     | 50M      | 798元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=23)** |
+| 4G       | 4核     | 80G      | 不限     | 100M     | 1688元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=23)** |
 
 **越南家庭网络ISP VPS**
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格**  | **购买**                                               |
 | -------- | ------- | -------- | -------- | -------- | --------- | ------------------------------------------------------ |
-| 1G       | 1核     | 20G      | 3T/月    | 100M     | 88元/月   | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
-| 2G       | 2核     | 40G      | 6T/月    | 150M     | 129元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
-| 4G       | 4核     | 80G      | 20T/月   | 200M     | 599元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
-| 2G       | 2核     | 40G      | 不限     | 100M     | 899元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
-| 4G       | 4核     | 80G      | 不限     | 200M     | 1899元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
-| 1G       | 1核     | 10G      | 1T/月    | 100M     | 699元/年  | **[链接](https://lisahost.com/aff.php?aff=893&gid=16)** |
+| 1G       | 1核     | 20G      | 3T/月    | 100M     | 88元/月   | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
+| 2G       | 2核     | 40G      | 6T/月    | 150M     | 129元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
+| 4G       | 4核     | 80G      | 20T/月   | 200M     | 599元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
+| 2G       | 2核     | 40G      | 不限     | 100M     | 899元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
+| 4G       | 4核     | 80G      | 不限     | 200M     | 1899元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
+| 1G       | 1核     | 10G      | 1T/月    | 100M     | 699元/年  | **[链接](https://lisahost.com/aff.php?aff=85&gid=16)** |
 
 **美国双ISP AS9929 VPS**
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格**  | **购买**                                               |
 | -------- | ------- | -------- | -------- | -------- | --------- | ------------------------------------------------------ |
-| 1G       | 1核     | 10G      | 600G/月  | 50M      | 499元/年  | **[链接](https://lisahost.com/aff.php?aff=893&gid=61)** |
-| 1G       | 1核     | 10G      | 1T/月    | 50M      | 68元/月   | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
-| 1G       | 1核     | 20G      | 2T/月    | 60M      | 88元/月   | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
-| 2G       | 2核     | 40G      | 4T/月    | 80M      | 158元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
-| 4G       | 4核     | 80G      | 8T/月    | 100M     | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
-| 2G       | 2核     | 40G      | 不限     | 20M      | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
-| 4G       | 4核     | 80G      | 不限     | 50M      | 1288元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=12)**       |
+| 1G       | 1核     | 10G      | 600G/月  | 50M      | 499元/年  | **[链接](https://lisahost.com/aff.php?aff=85&gid=61)** |
+| 1G       | 1核     | 10G      | 1T/月    | 50M      | 68元/月   | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
+| 1G       | 1核     | 20G      | 2T/月    | 60M      | 88元/月   | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
+| 2G       | 2核     | 40G      | 4T/月    | 80M      | 158元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
+| 4G       | 4核     | 80G      | 8T/月    | 100M     | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
+| 2G       | 2核     | 40G      | 不限     | 20M      | 388元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
+| 4G       | 4核     | 80G      | 不限     | 50M      | 1288元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=12)**       |
 
 **美国西雅图真家宽/静态住宅VDS**
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格** | **购买**                                         |
 | -------- | ------- | -------- | -------- | -------- | -------- | ------------------------------------------------ |
-| 1G       | 1核     | 20G      | 3T/月    | 100Mbps  | 129元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=33)** |
-| 2G       | 2核     | 40G      | 6T/月    | 200Mbps  | 209元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=33) |
-| 4G       | 4核     | 80G      | 20T/月   | 300Mbps  | 699元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=33) |
-| 1G       | 1核     | 20G      | 不限     | 50Mbps   | 299元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=33)** |
-| 2G       | 2核     | 40G      | 不限     | 100Mbps  | 399元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=33)** |
-| 4G       | 4核     | 80G      | 不限     | 200Mbps  | 599元/月 | **[链接](https://lisahost.com/aff.php?aff=893&gid=33)** |
+| 1G       | 1核     | 20G      | 3T/月    | 100Mbps  | 129元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=33)** |
+| 2G       | 2核     | 40G      | 6T/月    | 200Mbps  | 209元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=33) |
+| 4G       | 4核     | 80G      | 20T/月   | 300Mbps  | 699元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=33) |
+| 1G       | 1核     | 20G      | 不限     | 50Mbps   | 299元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=33)** |
+| 2G       | 2核     | 40G      | 不限     | 100Mbps  | 399元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=33)** |
+| 4G       | 4核     | 80G      | 不限     | 200Mbps  | 599元/月 | **[链接](https://lisahost.com/aff.php?aff=85&gid=33)** |
 
 **英国双ISP 家庭网络VPS**
 
 | **内存** | **CPU** | **NVMe** | **流量** | **带宽** | **价格** | **购买**                                         |
 | -------- | ------- | -------- | -------- | -------- | -------- | ------------------------------------------------ |
-| 1G       | 1核     | 10G      | 6T/月    | 300M     | 68元/月  | **[链接](https://lisahost.com/aff.php?aff=893&gid=14)** |
-| 2G       | 2核     | 20G      | 8T/月    | 500M     | 100元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=14) |
-| 4G       | 4核     | 80G      | 20T/月   | 1Gbps    | 300元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=14) |
-| 2G       | 2核     | 40G      | 不限     | 200Mbps  | 398元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=14) |
-| 4G       | 4核     | 80G      | 不限     | 500Mbps  | 598元/月 | [**链接**](https://lisahost.com/aff.php?aff=893&gid=14) |
+| 1G       | 1核     | 10G      | 6T/月    | 300M     | 68元/月  | **[链接](https://lisahost.com/aff.php?aff=85&gid=14)** |
+| 2G       | 2核     | 20G      | 8T/月    | 500M     | 100元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=14) |
+| 4G       | 4核     | 80G      | 20T/月   | 1Gbps    | 300元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=14) |
+| 2G       | 2核     | 40G      | 不限     | 200Mbps  | 398元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=14) |
+| 4G       | 4核     | 80G      | 不限     | 500Mbps  | 598元/月 | [**链接**](https://lisahost.com/aff.php?aff=85&gid=14) |
 
-PS：以上只是丽萨主机商的部分VPS产品，详细实际的可以到[官网查看](https://lisahost.com/aff.php?aff=893)。
+PS：以上只是丽萨主机商的部分VPS产品，详细实际的可以到[官网查看](https://lisahost.com/aff.php?aff=85)。
 
 ## LisaHost VPS 如何选择
 
